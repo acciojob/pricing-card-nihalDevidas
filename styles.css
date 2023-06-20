@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+h1,p{
+	margin:0;
+	padding:0;
+}
+
+p, h1, .btn-div{
+	text-align:center;
+}
+
+.main-container{
+	margin:auto;
+	border: none;
+	width:400px;
+	padding: 60px 0px 55px 0px;
+	background-color:#f5f5f5;
+
+	box-shadow: 0px 10px 15px 2px lightgray;
+}
+
+.imgg{
+	width:300px;
+}
+.img-div{
+	text-align:center;
+	
+}
+
+h1{
+	font-size:55px;
+	font-weight:bolder;
+}
+.price{
+	font-size:30px;
+	font-weight:500;
+}
+.desp{
+	width:300px;
+	margin-left: 60px;
+	font-size: 30px;
+	font-weight:500;
+}
+.btn{
+	margin-top:20px;
+	padding: 22px 20px 22px 20px;
+	font-size: 30px;
+	border:none;
+	border-radius:20px;
+	color:white;
+	background-color: #e74c3c;
+	
+}
+
+
+
